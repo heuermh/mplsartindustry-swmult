@@ -76,7 +76,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "/home/ultraviolet/github/personal/pcb order/arp panel/")
+			(outputdirectory "/")
 		)
 	)
 	(net 0 "")
